@@ -8,4 +8,3 @@ https://github.com/jihoo-kim/awesome-RecSys
 
 
 ![image](https://user-images.githubusercontent.com/60685175/150285242-d361d0cb-5ea8-48d5-9e34-bd4d985d7060.png)
-.
